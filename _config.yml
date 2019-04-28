@@ -86,7 +86,7 @@ links:
   - email:
       name: Email
       show: true
-      href: mailto:jonathan.doe@host.domain
+      href: mailto:admin@fatashfamilia.com
       icon: fas fa-envelope
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
