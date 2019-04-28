@@ -16,7 +16,7 @@ body {
 }
 
 .fullscreen-background {
-    background: url("../images/background.jpg") no-repeat center center fixed; 
+    background: url("../images/background.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -37,7 +37,7 @@ div.fuse-core-content {
 /* --------- Avatar ---------------------------------------------------------------------------- */
 
 #avatar {
-    height: 180px;
+    height: 480px;
     border-radius: 100%;
     border: 5px solid white;
 }
